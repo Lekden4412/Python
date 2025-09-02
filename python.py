@@ -5,4 +5,4 @@
 #print("tibtan are not coder" )
 #input ()function
 #print("hello " + input("what is your name? ")) #input function always return string value
-print("Tashi Delek " + input("What is your name?")) #string multiplication
+print("Tashi Delek " + input("What is your name?") + "!") #string multiplication

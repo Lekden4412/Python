@@ -38,3 +38,19 @@ var =(var3)
 print(var1)
 
 print(var2)
+
+# DATA TYPES
+
+- Integers: integers is whole number 
+- string: string is simply just text or " number and taxt inside this "
+- floating: floating is number that have number behind . like 32.45
+- boolean: is true and false
+
+# task 
+name = input("Enter your name\n")# this is staring 
+
+length = len(name)# This is int
+
+lengths = str(length) # convert int to str
+
+print("Number of letters in your name: " + lengths)

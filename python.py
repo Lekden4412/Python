@@ -3,5 +3,7 @@
 #space is very important in python so naver add space before or after = sign
 #input ()function
 #print("Tashi Delek " + input("What is your name?") + "!")
-name = input("What is your name?")
-print(len("your name has " + str(name) + " characters"))
+name = input("Enter your name\n")
+length = len(name)
+lengths = str(length)
+print("Number of letters in your name: " + lengths)
